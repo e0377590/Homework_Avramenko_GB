@@ -1,0 +1,9 @@
+Avramenko 40000
+Kosmachev 15000
+Agafonova 55000
+Beliaev 10000
+Ganchenko 43000
+Fedorov 65000
+Anichenko 8000
+Sergeeva 12000
+Martunov 36000

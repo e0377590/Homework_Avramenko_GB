@@ -1,0 +1,6 @@
+Hi, my name is Anna
+I am 33 years old
+I am from Saint-Petersburg
+I am a student
+I like swimming and travelling
+Now I am testing my programm 
