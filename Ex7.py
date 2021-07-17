@@ -9,9 +9,7 @@ my_list = []
 my_dict = {}
 
 for i, el in enumerate(firm):
-    el = el.split(' ')
-    el[3] = el[3].replace('\n', '')
-    #print(el)
+    el = el.split()
     income = int(el[2]) - int(el[3])
     if income > 0:
         aver += income
